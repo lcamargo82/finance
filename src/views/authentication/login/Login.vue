@@ -70,6 +70,8 @@ export default {
           border-radius: 5px;
           font-size: 18px;
           padding: 0 10px;
+          background: #23232366;
+          color: white;
 
           &:focus {
             box-shadow: 0 0 0 0;
@@ -86,8 +88,8 @@ export default {
           font-size: 16px;
           border: none;
           border-radius: 5px;
-          width: 100px;
-          height: 35px;
+          width: 150px;
+          height: 40px;
           cursor: pointer;
         }
     }
